@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @husainafser
 - 👀 I’m interested in Full stack Web Development
 - 🌱 I’m currently learning PHP and JQuery
-- 💞️ I’m looking to collaborate on PhP Projects
+- 💞️ I’m looking to collaborate on PHP Projects
 - 📫 husainafser1@gmail.com
 
 <!---
